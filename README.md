@@ -1,3 +1,4 @@
+ HEAD
 # Introducción a la Programación Orientada a Objetos
 
 Este repositorio contiene ejemplos y explicaciones sobre los conceptos fundamentales de la Programación Orientada a Objetos (POO). A continuación, se detalla el contenido de cada archivo:
@@ -42,3 +43,7 @@ Si deseas contribuir a este repositorio, ¡te invitamos a hacerlo! Puedes agrega
 ## Contacto
 
 Si tienes alguna pregunta o sugerencia o quieres el workbook para desarrollar este proyecto, no dudes en contactarme en [jsanchez@educamas.com.co](jsanchez@educamas.com.co).
+=======
+# POO_class_exercise
+ Ejercicios sobre programación Orientada a Objetos (POO)
+>>>>>>> c4d31933e3e8744f17771766b9d630be5676261b
